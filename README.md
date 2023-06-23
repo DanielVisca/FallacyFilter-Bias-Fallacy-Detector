@@ -2,7 +2,7 @@
 FallacyFilter: AI-powered Chrome extension. Detects biases and fallacies in online text. Your guide to informed, bias-free reading.
 
 
-Privacy Policy for FallacyFilter: Bias & Fallacy Detector
+## Privacy Policy for FallacyFilter: Bias & Fallacy Detector
 
 This Privacy Policy governs the manner in which FallacyFilter: Bias & Fallacy Detector collects, uses, maintains, and discloses information collected from users of the FallacyFilter: Bias & Fallacy Detector Chrome extension.
 
